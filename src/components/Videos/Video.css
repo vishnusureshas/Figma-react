@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main video {
+    width: 80%;
+    height: 500px;
+    object-fit: cover;
+    margin-left: 150px;
+}
